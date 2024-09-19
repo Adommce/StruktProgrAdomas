@@ -1,3 +1,0 @@
-C:/Users/s056744/Documents/StruktProgrAdomas/cmake-build-debug/CMakeFiles/StruktProgrAdomas.dir
-C:/Users/s056744/Documents/StruktProgrAdomas/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/s056744/Documents/StruktProgrAdomas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
