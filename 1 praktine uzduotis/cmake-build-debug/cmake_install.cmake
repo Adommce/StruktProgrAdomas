@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis
+# Install script for directory: C:/Users/s056744/Documents/StruktProgrAdomas/1 praktine uzduotis
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/StruktProgrAdomas")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/1_praktine_uzduotis")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/s056744/Documents/StruktProgrAdomas/1 praktine uzduotis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

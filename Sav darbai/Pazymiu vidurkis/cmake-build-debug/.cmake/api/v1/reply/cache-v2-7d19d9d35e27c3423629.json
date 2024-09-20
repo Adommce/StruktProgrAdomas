@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/s056744/Documents/StruktProgrAdomas/1 pam/cmake-build-debug"
+			"value" : "c:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/1 pam/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/1 pam"
+			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/1 pam/cmake-build-debug"
+			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis/cmake-build-debug"
 		},
 		{
 			"name" : "StruktProgrAdomas_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/1 pam"
+			"value" : "C:/Users/s056744/Documents/StruktProgrAdomas/Sav darbai/Pazymiu vidurkis"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

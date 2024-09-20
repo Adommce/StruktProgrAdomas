@@ -1,0 +1,3 @@
+C:/Users/s056744/Documents/StruktProgrAdomas/1 praktine uzduotis/cmake-build-debug/CMakeFiles/1_praktine_uzduotis.dir
+C:/Users/s056744/Documents/StruktProgrAdomas/1 praktine uzduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s056744/Documents/StruktProgrAdomas/1 praktine uzduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
